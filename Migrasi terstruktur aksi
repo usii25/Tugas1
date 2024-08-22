@@ -1,0 +1,10 @@
+package pbo;
+
+public class PBOAksi {
+
+    public static void main(String[] args) {
+        PBO halo = new PBO("Halo, Welcome to PBO!");
+
+        halo.tampilkanGreeting();
+    }
+}
