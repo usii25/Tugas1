@@ -1,0 +1,7 @@
+package pbo;
+
+public class Terstruktur {
+    public static void main(String[] args){
+        System.out.println("Halo, Welcome to PBO!");
+    }
+}
