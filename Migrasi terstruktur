@@ -1,0 +1,14 @@
+package pbo;
+
+public class PBO {
+
+    private String greeting;
+    
+    public PBO(String greeting) {
+        this.greeting = greeting;
+    }
+    
+    public void tampilkanGreeting() {
+        System.out.println(greeting);
+    }
+}
